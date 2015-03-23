@@ -3,7 +3,14 @@ Android Gist Index
 
 ![Developers](art/android-developer.png "Android Tips")
 
-Android Gist Index is a fancy list of useful tips and tricks for Android development
+Android Gist Index is a fancy list of useful tips and tricks for Android development.
+
+_If you collaborate in this repo, please always sort the gist in *Alphabetical Order* (for gist and categories)_
+
+## Android OS Integration.
+
+[Configure Activity as Assist Activity](https://gist.github.com/pedrovgs/c424fe754a74f326e997)
+* Configure an Activity to be opened when the user taps on the home button with a long press action.
 
 ## Animations
 
@@ -22,11 +29,6 @@ Android Gist Index is a fancy list of useful tips and tricks for Android develop
 
 [SupportVersion] (https://gist.github.com/Aracem/5531287)
 * More readable check for version support. Use SupportVersion.lollipop() for example
-
-## Android OS Integration.
-
-[Configure Activity as Assist Activity](https://gist.github.com/pedrovgs/c424fe754a74f326e997)
-* Configure an Activity to be opened when the user taps on the home button with a long press action.
 
 ## Tools
 
