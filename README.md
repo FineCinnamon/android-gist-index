@@ -18,7 +18,13 @@ Android Gist Index is a fancy list of useful tips and tricks for Android develop
 [Material Colors] (https://gist.github.com/daniellevass/b0b8cfa773488e138037)
 * Material colors. Colors everywhere
 
+## System
+
+[SupportVersion] (https://gist.github.com/Aracem/5531287)
+* More readable check for version support. Use SupportVersion.lollipop() for example
+
 ## Tools
 
 [Genymotion devices with Google Play Services] (https://gist.github.com/wbroek/9321145)
 * How to add google play services to the Genymotion devices
+
