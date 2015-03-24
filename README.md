@@ -25,6 +25,11 @@ _If you collaborate in this repo, please always sort the gist in *Alphabetical O
 [Material Colors] (https://gist.github.com/daniellevass/b0b8cfa773488e138037)
 * Material colors. Colors everywhere
 
+## Gradle & Compile
+
+[Speddup debug compile time] (https://gist.github.com/Aracem/a2bcdb841d9d2df07c23)
+* Speed up the compile time of your debug buildtype. Add this manifest to your debug folder and set API target to 22
+
 ## System
 
 [SupportVersion] (https://gist.github.com/Aracem/5531287)
