@@ -27,8 +27,13 @@ _If you collaborate in this repo, please always sort the gist in *Alphabetical O
 
 ## Gradle & Compile
 
-[Speddup debug compile time] (https://gist.github.com/Aracem/a2bcdb841d9d2df07c23)
+[Speed up debug compile time] (https://gist.github.com/Aracem/a2bcdb841d9d2df07c23)
+
 * Speed up the compile time of your debug buildtype. Add this manifest to your debug folder and set API target to 22
+
+[Wiki - How To with all steps achieve this] (https://github.com/FineCinnamon/android-gist-index/wiki/Gradle-fast-compile)
+
+* Wiki is a work in progress. You are more than welcome to contribute 
 
 ## System
 
