@@ -20,6 +20,9 @@ _If you collaborate in this repo, please always sort the gist in *Alphabetical O
 [Ripple Delayed Runner] (https://gist.github.com/rocboronat/bf1e7e43c0fd11907867)  
 * Ripple Delayed Runner adds a delay when the user clicks in a view with a ripple to show all the ripple animation before launch the Runnable.
 
+[Fragment transactions with Circular reveal animations](https://github.com/FineCinnamon/android-gist-index.git)
+* Fragments don't behave as normal views for the API 21 cicular reveal animation. This Gist shows how to make a fragment appear and disappear using a circular reveal animation.
+
 ## Design
 
 [Material Colors] (https://gist.github.com/daniellevass/b0b8cfa773488e138037)
