@@ -38,6 +38,10 @@ _If you collaborate in this repo, please always sort the gist in *Alphabetical O
 
 ## Gradle & Compile
 
+[Create multiple apks for different architectures](https://gist.github.com/marcohc/22399bc35eb959f35989)
+
+* This build.gradle shows how to create multiple apks for different architectures. Usefull when including native libraries
+
 [Speed up debug compile time](https://gist.github.com/Aracem/a2bcdb841d9d2df07c23)
 
 * Speed up the compile time of your debug buildtype. Add this manifest to your debug folder and set API target to 22
